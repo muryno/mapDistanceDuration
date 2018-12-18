@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mapDistanceDuration</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="route_distance">Distance</string>
+    <string name="route_distance_value">0 Km</string>
+    <string name="route_duration">Duration</string>
+    <string name="route_duration_value">0 mins</string>
+    <string name="server_error">Server error. Something when wrong with the server</string>
+</resources>
